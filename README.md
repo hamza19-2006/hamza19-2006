@@ -3,7 +3,7 @@
 
 ### Student by Day | AI Systems Architect by Night
 
-I specialize in building "invisible employees"—complex AI automation workflows that handle business logic, lead qualification, and cross-platform synchronization without human intervention.
+I specialize in building "invisible employees" complex AI automation workflows that handle business logic, lead qualification, and cross-platform synchronization without human intervention.
 
 ---
 
