@@ -34,7 +34,7 @@ Currently focused on **n8n workflow architecture**, **AI agent systems**, and **
 
 **[Brutl Fitness](https://play.google.com/store/apps/details?id=com.brutlapp.fitness)** `Flutter` `Firebase` `REST APIs`  
 Fitness consistency tracker on the Google Play Store. Built a proprietary scoring algorithm (Brutl Score 1–1000) that calculates a daily consistency metric from step volume, workout logs, and macro adherence. Includes a macro visualizer, gamified leaderboards, and offline-first sync.  
-`1,000+ downloads · Live on Google Play`
+` · Live on Google Play`
 
 ---
 
