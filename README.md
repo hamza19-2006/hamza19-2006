@@ -1,74 +1,110 @@
-# Muhammad Hamza
+<div align="center">
 
-**n8n Automation Specialist · AI Solutions Developer · Flutter Engineer**
+# Hi, I'm Muhammad Hamza 👋
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hamza--systems.tech-0f172a?style=flat-square&logo=google-chrome&logoColor=38bdf8)](https://hamza-systems.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hamza--systems-0f172a?style=flat-square&logo=linkedin&logoColor=0ea5e9)](https://www.linkedin.com/in/hamza-systems)
-[![Email](https://img.shields.io/badge/Email-m.hamza.systems%40gmail.com-0f172a?style=flat-square&logo=gmail&logoColor=ea4335)](mailto:m.hamza.systems@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B92_303_2172766-0f172a?style=flat-square&logo=whatsapp&logoColor=22c55e)](https://wa.me/923032172766)
+<a href="https://hamza-systems.tech">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=n8n+Automation+Specialist;AI+Solutions+Developer+%26+LLM+Architect;Flutter+%26+Full-Stack+Engineer;Building+%22Invisible+Employees%22+for+Businesses" alt="Typing SVG" />
+</a>
 
----
+<p align="center">
+  <a href="https://hamza-systems.tech" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=38bdf8&labelColor=0f172a" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/hamza-systems" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:m.hamza.systems@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/923032172766" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
 
-### About
-
-BS Computer Science student at University of Central Punjab, Lahore. I build automation systems that replace manual business workflows and ship production-grade mobile and web apps.
-
-Currently focused on **n8n workflow architecture**, **AI agent systems**, and **Flutter mobile development**. I don't just study these — I build and deploy them for real clients.
-
----
-
-### Tech Stack
-
-[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)](https://n8n.io)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com)
-[![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)](https://deepmind.google/gemini)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
-[![WhatsApp API](https://img.shields.io/badge/WhatsApp%20API-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://developers.facebook.com/docs/whatsapp)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)](https://dart.dev)
+</div>
 
 ---
 
-### Selected Work
+### ⚡ Quick Overview
 
-**[Brutl Fitness](https://play.google.com/store/apps/details?id=com.brutlapp.fitness)** — Live on Google Play · 1,000+ downloads  
-Gamified fitness consistency tracker built with Flutter & Firebase. Features a proprietary Brutl Score algorithm (1–1000) that calculates daily consistency from workout logs, step volume, and macro adherence. Includes precision macro analytics, community leaderboards with streak badges, and offline-first sync.
+BS Computer Science student at **University of Central Punjab (UCP)**, Lahore.  
+I engineer **production automation systems** and **full-stack applications** that replace manual business operations.
 
-**[AI Content Distribution Engine](https://hamza-systems.tech/#automations)** — Production · Multi-platform  
-n8n automation workflow that monitors Google Drive for new video assets, generates platform-specific captions via Google Gemini, and autonomously publishes to YouTube, Instagram, TikTok & LinkedIn. Includes WhatsApp execution confirmations with error recovery. Reduced a client's manual posting overhead by 90%.
-
-**[AI Study Assistant](https://hamza-systems.tech/#web-deployments)** — Live  
-Full-stack EdTech web app that converts lecture PDFs, slides, and notes into structured study summaries and practice quizzes using Google Gemini's multimodal API. Supports multi-turn conversation context for interactive exam Q&A. Built with Next.js, TypeScript & Supabase.
+- 🤖 **Automation Focus:** Custom n8n workflow architecture, multi-platform triggers, API routing & webhook pipelines.
+- 📱 **Mobile & Web:** Flutter cross-platform mobile apps (Live on Play Store) + Next.js web platforms.
+- 🧠 **Applied AI:** Multi-modal agents, RAG pipelines, and automated content generation using Google Gemini & OpenAI.
 
 ---
 
-### Achievements
+### 🛠️ Tech Stack
 
-| | |
+<p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Selected Work
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📱 Brutl Fitness</h3>
+      <p align="center">
+        <b>Live on Google Play · 1,000+ Downloads</b>
+      </p>
+      <p>Gamified consistency & nutrition tracker built with Flutter & Firebase. Features a proprietary Brutl Score algorithm (1–1000), macro visualizer, and global streak leaderboards.</p>
+      <p align="center">
+        <a href="https://play.google.com/store/apps/details?id=com.brutlapp.fitness">
+          <img src="https://img.shields.io/badge/Google_Play-Live_App-22c55e?style=flat-square&logo=googleplay&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🤖 AI Content Distribution Engine</h3>
+      <p align="center">
+        <b>Autonomous n8n Workflow · 90% Overhead Reduction</b>
+      </p>
+      <p>Monitors Google Drive for video assets, auto-generates platform-specific copy with Google Gemini, and simultaneously publishes to YouTube, Instagram, TikTok & LinkedIn.</p>
+      <p align="center">
+        <a href="https://hamza-systems.tech/#automations">
+          <img src="https://img.shields.io/badge/Architecture-View_Workflow-0ea5e9?style=flat-square&logo=diagramsdotnet&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏆 Key Highlights & Awards
+
+| Milestone | Details |
 |---|---|
-| 🥈 **2nd Place** — AI Project Competition | University of Central Punjab, 2026 |
-| 📱 **Brutl Fitness** on Google Play | 1,000+ downloads |
-| 🤖 **8+ production workflows** | n8n automation systems deployed |
-| 🌐 **4+ live apps** | Web & mobile applications in production |
+| 🥈 **2nd Place Winner** | UCP AI Project Competition 2026 |
+| 📱 **Production App** | Brutl Fitness published on Google Play (1k+ downloads) |
+| 🤖 **8+ Automation Workflows** | Active n8n production pipelines for real businesses |
+| 📜 **5 Verified Certifications** | AI, Robotics, Data Analytics & Freelancing Mastery |
 
 ---
 
-### Certifications
-
-| Certificate | Issuer | Year |
-|---|---|---|
-| 2nd Place — AI Project Competition | University of Central Punjab | 2026 |
-| UCP Summer School 2026 | University of Central Punjab | 2026 |
-| Summer Jam 2026 | University of Central Punjab | 2026 |
-| Freelancing Mastery Program | Punjab Group of Colleges | 2026 |
-| Robotics Programme | Punjab Group of Colleges | 2025 |
-
----
-
-Building automation systems for businesses — available for projects and consulting.  
-Reach me at **m.hamza.systems@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/hamza-systems).
+<div align="center">
+  <h3>🤝 Let's Build Something Together</h3>
+  <p>Available for <b>n8n automation pipelines</b>, <b>AI agent architectures</b>, and <b>cross-platform apps</b>.</p>
+  <p>
+    <a href="mailto:m.hamza.systems@gmail.com"><b>m.hamza.systems@gmail.com</b></a> · 
+    <a href="https://wa.me/923032172766"><b>WhatsApp: +92 303 2172766</b></a> · 
+    <a href="https://hamza-systems.tech"><b>hamza-systems.tech</b></a>
+  </p>
+</div>
