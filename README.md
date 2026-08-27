@@ -16,7 +16,7 @@
 
 - 🎓 BS Computer Science Student @ **University of Central Punjab (UCP)**
 - 🥈 **2nd Place** — UCP AI Project Competition 2026
-- 📱 Published **Brutl Fitness** on Google Play Store (1,000+ Downloads)
+- 📱 Published **Brutl Fitness** on Google Play Store 
 - 🔧 Building **8+ production n8n automation workflows** for real businesses
 - 🌍 **Open for:** Freelance Projects, Automation Consulting & Internships
 
