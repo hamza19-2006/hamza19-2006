@@ -62,7 +62,7 @@ I engineer **production automation systems** and **full-stack applications** tha
     <td width="50%">
       <h3 align="center">📱 Brutl Fitness</h3>
       <p align="center">
-        <b>Live on Google Play </b>
+        <b>Live on Google Play · 1,000+ Downloads</b>
       </p>
       <p>Gamified consistency & nutrition tracker built with Flutter & Firebase. Features a proprietary Brutl Score algorithm (1–1000), macro visualizer, and global streak leaderboards.</p>
       <p align="center">
@@ -100,11 +100,15 @@ I engineer **production automation systems** and **full-stack applications** tha
 ---
 
 <div align="center">
-  <h3>🤝 Let's Build Something Together</h3>
+  <h3>⚡ Let's Build Something Great</h3>
   <p>Available for <b>n8n automation pipelines</b>, <b>AI agent architectures</b>, and <b>cross-platform apps</b>.</p>
   <p>
-    <a href="mailto:m.hamza.systems@gmail.com"><b>m.hamza.systems@gmail.com</b></a> · 
-    <a href="https://wa.me/923032172766"><b>WhatsApp: +92 303 2172766</b></a> · 
-    <a href="https://hamza-systems.tech"><b>hamza-systems.tech</b></a>
+    <a href="mailto:m.hamza.systems@gmail.com">
+      <img src="https://img.shields.io/badge/Get_In_Touch-m.hamza.systems%40gmail.com-0ea5e9?style=flat-square&logo=gmail&logoColor=white" />
+    </a>
+    &nbsp;
+    <a href="https://wa.me/923032172766" target="_blank">
+      <img src="https://img.shields.io/badge/Quick_Chat-WhatsApp-22c55e?style=flat-square&logo=whatsapp&logoColor=white" />
+    </a>
   </p>
 </div>
