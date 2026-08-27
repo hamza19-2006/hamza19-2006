@@ -36,7 +36,7 @@ Currently focused on **n8n workflow architecture**, **AI agent systems**, and **
 
 ### Selected Work
 
-**[Brutl Fitness](https://play.google.com/store/apps/details?id=com.brutlapp.fitness)** — Live on Google Play · 1,000+ downloads  
+**[Brutl Fitness](https://play.google.com/store/apps/details?id=com.brutlapp.fitness)** — Live on Google Play   
 Gamified fitness consistency tracker built with Flutter & Firebase. Features a proprietary Brutl Score algorithm (1–1000) that calculates daily consistency from workout logs, step volume, and macro adherence. Includes precision macro analytics, community leaderboards with streak badges, and offline-first sync.
 
 **[AI Content Distribution Engine](https://hamza-systems.tech/#automations)** — Production · Multi-platform  
