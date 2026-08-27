@@ -62,7 +62,7 @@ I engineer **production automation systems** and **full-stack applications** tha
     <td width="50%">
       <h3 align="center">📱 Brutl Fitness</h3>
       <p align="center">
-        <b>Live on Google Play · 1,000+ Downloads</b>
+        <b>Live on Google Play </b>
       </p>
       <p>Gamified consistency & nutrition tracker built with Flutter & Firebase. Features a proprietary Brutl Score algorithm (1–1000), macro visualizer, and global streak leaderboards.</p>
       <p align="center">
