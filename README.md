@@ -52,7 +52,7 @@ Full-stack EdTech web app that converts lecture PDFs, slides, and notes into str
 | | |
 |---|---|
 | 🥈 **2nd Place** — AI Project Competition | University of Central Punjab, 2026 |
-| 📱 **Brutl Fitness** on Google Play | 1,000+ downloads |
+| 📱 **Brutl Fitness** on Google Play | Live on Google Play   |
 | 🤖 **8+ production workflows** | n8n automation systems deployed |
 | 🌐 **4+ live apps** | Web & mobile applications in production |
 
