@@ -17,7 +17,7 @@ BSCS @ University of Central Punjab, Lahore. I build automation systems that rep
 
 ### Work
 
-**[Brutl Fitness](https://play.google.com/store/apps/details?id=com.brutlapp.fitness)** — Live on Google Play · 1,000+ downloads  
+**[Brutl Fitness](https://play.google.com/store/apps/details?id=com.brutlapp.fitness)** — Live on Google Play   
 Gamified fitness tracker with a proprietary consistency scoring algorithm, macro analytics, and community leaderboards. Built with Flutter & Firebase.
 
 **[AI Content Distribution Engine](https://hamza-systems.tech/#automations)** — Production  
