@@ -96,3 +96,23 @@ I engineer **production automation systems** and **full-stack applications** tha
 | 📱 **Production App** | Brutl Fitness published on Google Play (1k+ downloads) |
 | 🤖 **8+ Automation Workflows** | Active n8n production pipelines for real businesses |
 | 📜 **5 Verified Certifications** | AI, Robotics, Data Analytics & Freelancing Mastery |
+
+---
+
+<div align="center">
+
+### ⚡ Let's Build Something Great
+
+<p>Available for <b>n8n automation pipelines</b>, <b>AI agent architectures</b>, and <b>mobile apps</b>.</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hamza-systems" target="_blank">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:m.hamza.systems@gmail.com">
+    <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+</div>
