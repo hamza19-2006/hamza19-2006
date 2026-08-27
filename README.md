@@ -70,5 +70,5 @@ Full-stack EdTech web app that converts lecture PDFs, slides, and notes into str
 
 ---
 
-Open for freelance automation projects, AI system builds, and consulting.  
+Building automation systems for businesses — available for projects and consulting.  
 Reach me at **m.hamza.systems@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/hamza-systems).
