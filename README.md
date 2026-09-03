@@ -62,7 +62,7 @@ I engineer **production automation systems** and **full-stack applications** tha
     <td width="50%">
       <h3 align="center">📱 Brutl Fitness</h3>
       <p align="center">
-        <b>Live on Google Play ·</b>
+        <b>Live on Google Play · 1,000+ Downloads</b>
       </p>
       <p>Gamified consistency & nutrition tracker built with Flutter & Firebase. Features a proprietary Brutl Score algorithm (1–1000), macro visualizer, and global streak leaderboards.</p>
       <p align="center">
@@ -93,9 +93,9 @@ I engineer **production automation systems** and **full-stack applications** tha
 | Milestone | Details |
 |---|---|
 | 🥈 **2nd Place Winner** | UCP AI Project Competition 2026 |
-| 📱 **Production App** | Brutl Fitness published on Google Play  |
+| 📱 **Production App** | Brutl Fitness published on Google Play (1k+ downloads) |
 | 🤖 **8+ Automation Workflows** | Active n8n production pipelines for real businesses |
-| 📜 **5 Verified Certifications** | AI, Robotics, Data Analytics & Freelancing Mastery |
+| 📜 **6 Verified Certifications** | CS50, AI, Robotics, Data Analytics & Freelancing Mastery |
 
 ---
 
