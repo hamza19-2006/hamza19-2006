@@ -93,7 +93,7 @@ I engineer **production automation systems** and **full-stack applications** tha
 | Milestone | Details |
 |---|---|
 | 🥈 **2nd Place Winner** | UCP AI Project Competition 2026 |
-| 📱 **Production App** | Brutl Fitness published on Google Play (1k+ downloads) |
+| 📱 **Production App** | Brutl Fitness published on Google Play  |
 | 🤖 **8+ Automation Workflows** | Active n8n production pipelines for real businesses |
 | 📜 **7 Verified Certifications** | Anthropic MCP, CS50, AI, Robotics & Analytics |
 
